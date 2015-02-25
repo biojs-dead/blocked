@@ -1,5 +1,5 @@
 biojs-io-sam: 
   - sparse_doc
-biojs-io-genbank
+biojs-io-genbank:
   - sparse_doc
   - no_tests
