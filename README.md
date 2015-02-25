@@ -11,7 +11,7 @@ Categories
 * no unit testing (`no_tests`)
 * no snippets (`no_snippets`)
 * lack of events to interact with (`sparse_events`)
-* no answering github issues (`inactive_on_github`)
+* not answering github issues (`inactive_on_github`)
 
 If you add a new category, you also need to add it to the registry.
 
