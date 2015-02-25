@@ -13,8 +13,6 @@ Categories
 * lack of events to interact with (`sparse_events`)
 * not answering github issues (`inactive_on_github`)
 
-If you add a new category, you also need to add it to the registry.
-
 FAQ
 ----
 
@@ -44,6 +42,13 @@ horrible_component:
 
 You don't need to be afraid - most of the authors of the deficiency components
 have vanished anyway and if they are still active they are grateful for your work.
+
+### How can I add a new category?
+
+Just update this file, and add a explanation to
+
+* [Registry-ui](https://github.com/biojs/registry-ui/blob/gh-pages/angular/component-model/component-model.js#L149)
+* [Gold standard](https://github.com/biojs/edu/blob/master/series/102/70_gold_standard.md)
 
 
 TODO
