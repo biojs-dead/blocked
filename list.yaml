@@ -3,3 +3,4 @@ biojs-io-sam:
 biojs-io-genbank:
   - sparse_doc
   - no_tests
+  - major_bugs
