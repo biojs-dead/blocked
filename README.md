@@ -10,6 +10,7 @@ Categories
 * incomplete API documentation (`sparse_doc`)
 * no unit testing (`no_tests`)
 * no snippets (`no_snippets`)
+* major bugs (`major_bugs`)
 * lack of events to interact with (`sparse_events`)
 * not answering github issues (`inactive_on_github`)
 
